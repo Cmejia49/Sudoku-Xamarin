@@ -1,7 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Devices>
-  <Device id="emulator-5554">
-    <ResultingAbi>x86</ResultingAbi>
-    <SdkVersion>27</SdkVersion>
-  </Device>
-</Devices>
+<Devices><Device id="TOV8HE5H6T9HB6HU"><ResultingAbi>arm64-v8a</ResultingAbi><ToolsAbi /><SdkVersion>31</SdkVersion><LongOutput>product:RMX3191T2;model:RMX3191;device:RMX3191;transport_id:1</LongOutput></Device></Devices>

@@ -10,3 +10,16 @@ D:\repo\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\XamlC.stamp
 D:\repo\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.dll
 D:\repo\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.pdb
 D:\repo\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.csprojAssemblyReference.cache
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\bin\Debug\netstandard2.0\Sudoku.deps.json
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\bin\Debug\netstandard2.0\Sudoku.dll
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\bin\Debug\netstandard2.0\Sudoku.pdb
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.csproj.AssemblyReference.cache
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.AssemblyInfoInputs.cache
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.AssemblyInfo.cs
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.csproj.CoreCompileInputs.cache
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.dll
+D:\repo\Sudoku-Xamarin\Sudoku\Sudoku\Sudoku\obj\Debug\netstandard2.0\Sudoku.pdb

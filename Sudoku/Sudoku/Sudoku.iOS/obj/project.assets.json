@@ -714,20 +714,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\christopher\\.nuget\\packages\\": {}
+    "D:\\.nuget\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repo\\Sudoku\\Sudoku\\Sudoku.iOS\\Sudoku.iOS.csproj",
+      "projectUniqueName": "D:\\repo\\Sudoku-Xamarin\\Sudoku\\Sudoku\\Sudoku.iOS\\Sudoku.iOS.csproj",
       "projectName": "Sudoku.iOS",
-      "projectPath": "D:\\repo\\Sudoku\\Sudoku\\Sudoku.iOS\\Sudoku.iOS.csproj",
-      "packagesPath": "C:\\Users\\christopher\\.nuget\\packages\\",
-      "outputPath": "D:\\repo\\Sudoku\\Sudoku\\Sudoku.iOS\\obj\\",
+      "projectPath": "D:\\repo\\Sudoku-Xamarin\\Sudoku\\Sudoku\\Sudoku.iOS\\Sudoku.iOS.csproj",
+      "packagesPath": "D:\\.nuget\\packages",
+      "outputPath": "D:\\repo\\Sudoku-Xamarin\\Sudoku\\Sudoku\\Sudoku.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\christopher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -740,8 +745,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\repo\\Sudoku\\Sudoku\\Sudoku\\Sudoku.csproj": {
-              "projectPath": "D:\\repo\\Sudoku\\Sudoku\\Sudoku\\Sudoku.csproj"
+            "D:\\repo\\Sudoku-Xamarin\\Sudoku\\Sudoku\\Sudoku\\Sudoku.csproj": {
+              "projectPath": "D:\\repo\\Sudoku-Xamarin\\Sudoku\\Sudoku\\Sudoku\\Sudoku.csproj"
             }
           }
         }
